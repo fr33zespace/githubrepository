@@ -1,3 +1,1 @@
-# My First repsitory
-# githubrepository
-# hello-world
+#my first repository
